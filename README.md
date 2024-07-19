@@ -1,2 +1,2 @@
 # VSNet
-The Architecture of the model has been uploaded.
+The architecture of the model has been uploaded.
