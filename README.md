@@ -1,2 +1,2 @@
 # VSNet
-The code and dataset wiil be pulished soon.
+The Architecture of the model has been uploaded.
