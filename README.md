@@ -11,15 +11,16 @@ DOI: 10.1016/j.media.2025.103458
 
 ## Introduction
 
-VSNet is a multi-task learning model designed for accurate segmentation of hepatic and portal veins from CT images. Key innovations include:
-	•	A vessel-growing decoder to preserve connectivity in minor vessels.
-	•	Auxiliary tasks for centerline regression and edge segmentation.
-	•	Evaluation on the largest public dataset for hepatic and portal vein segmentation (revised MSD dataset, 303 cases).
+VSNet is a multi-task learning model designed for accurate segmentation of hepatic and portal veins from CT images. Key innovations include: 
+
+- A vessel-growing decoder to preserve connectivity in minor vessels.
+- Auxiliary tasks for centerline regression and edge segmentation.
+- Evaluation on the largest public dataset for hepatic and portal vein segmentation (revised MSD dataset, 303 cases).
 
 This repository provides:
-	1.	The source code for training and evaluation.
-	2.	The re-annotated dataset.
-	3.	Pretrained models and example predictions.
+- The source code for training and evaluation.
+- The re-annotated dataset.
+- Pretrained models and example predictions.
 
 
 ## Dataset
