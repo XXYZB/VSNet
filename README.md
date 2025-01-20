@@ -7,6 +7,7 @@ Authors: Jichen Xu, Anqi Dong, Yang Yang, et al.
 Published in: Medical Image Analysis, 2025
 DOI: 10.1016/j.media.2025.103458
 
+![alt text](https://github.com/XXYZB/VSNet/blob/main/mask.png)
 
 
 ## Introduction
@@ -35,7 +36,7 @@ The re-annotated dataset includes:
 Access
 
 The dataset is available for download:
-- Dataset link: Dataset Download
+- Dataset link: http://medicaldecathlon.com/
 
 
 ## Citation
