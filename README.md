@@ -37,9 +37,27 @@ The dataset is available for download:
 	•	Dataset link: Dataset Download
 
 
+## Citation
+
+If you use this repository, please cite:
+
+@article{dong2025vsnet,
+  title={VSNet: Vessel Structure-aware Network for Hepatic and Portal Vein Segmentation},
+  author={Jichen Xu, Anqi Dong, Yang Yang, et al.},
+  journal={Medical Image Analysis},
+  year={2025},
+  doi={10.1016/j.media.2025.103458}
+}
 
 
+## License
+
+This project is licensed under the MIT License. See LICENSE for more details.
 
 
+## Contact
 
+For any questions or issues, feel free to contact:
+        •	Jichen Xu: branrafa95@gmail.com
+	•	Anqi Dong: anqid@kth.se
  
