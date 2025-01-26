@@ -9,6 +9,7 @@ DOI: 10.1016/j.media.2025.103458
 
 ![alt text](https://github.com/XXYZB/VSNet/blob/main/mask.png)
 
+# The paper is currently in its pre-proof stage, and the release of our dataset is in the final stages of processing. We will provide an update as soon as it becomes available.
 
 ## Introduction
 
