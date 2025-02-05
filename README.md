@@ -9,7 +9,8 @@ DOI: 10.1016/j.media.2025.103458
 
 ![alt text](https://github.com/XXYZB/VSNet/blob/main/mask.png)
 
-## Please Note: The dataset is available upon request. To obtain access, please fill out the provided chart and send it to us via email. We will process your request and share the dataset accordingly.
+## Dataset Availability: 
+<span style="color: purple;"> The dataset is available upon request. To obtain access, please fill out the provided chart and send it to us via email. We will process your request and share the dataset accordingly. </span>
 
 ## Introduction
 
