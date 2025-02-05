@@ -9,7 +9,7 @@ DOI: 10.1016/j.media.2025.103458
 
 ![alt text](https://github.com/XXYZB/VSNet/blob/main/mask.png)
 
-# Note: The paper is currently in its pre-proof stage, and the release of our dataset is in the final stages of processing. We will provide an update as soon as it becomes available.
+## Please Note: The dataset is available upon request. To obtain access, please fill out the provided chart and send it to us via email. We will process your request and share the dataset accordingly.
 
 ## Introduction
 
@@ -64,4 +64,5 @@ This project is licensed under the MIT License. See LICENSE for more details.
 For any questions or issues, feel free to contact:
 - Jichen Xu: branrafa95@gmail.com
 - Anqi Dong: anqid@kth.se
+- Bo Wang: bow@hust.edu.cn
  
