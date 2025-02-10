@@ -37,7 +37,7 @@ Access
 The dataset is available for download:
 - Dataset link: http://medicaldecathlon.com/
 
-The corresponding reannotated masks are in the zip file reannotated.zip
+### The corresponding reannotated masks are in the zip file reannotated.zip
 
 
 ## Citation
