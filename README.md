@@ -6,9 +6,9 @@ This repository contains the implementation, dataset, and documentation for the 
 Authors: Jichen Xu, Anqi Dong, Yang Yang, et al.
 Published in: Medical Image Analysis, 2025
 DOI: 10.1016/j.media.2025.103458
-
 ![alt text](https://github.com/XXYZB/VSNet/blob/main/mask.png)
 
+Please note: The dataset can be downloaded from reannotated.zip
 ## Introduction
 
 VSNet is a multi-task learning model designed for accurate segmentation of hepatic and portal veins from CT images. Key innovations include: 
