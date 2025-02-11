@@ -35,15 +35,15 @@ The re-annotated dataset includes:
 
 Access
 
-The original dataset is available for download:
-- Dataset link: http://medicaldecathlon.com/
+The original dataset is available for download at
+- link: http://medicaldecathlon.com/
 
 ### The corresponding reannotated masks are in the zip file reannotated.zip
 
 
 ## Citation
 
-If you use this repository, please cite:
+If you use this repository and our dataset, please cite: 
 
 ```
 @article{dong2025vsnet,
