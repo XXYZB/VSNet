@@ -35,7 +35,7 @@ The re-annotated dataset includes:
 
 Access
 
-The dataset is available for download:
+The original dataset is available for download:
 - Dataset link: http://medicaldecathlon.com/
 
 ### The corresponding reannotated masks are in the zip file reannotated.zip
