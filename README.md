@@ -62,7 +62,7 @@ This project is licensed under the MIT License. See LICENSE for more details.
 
 ## Contact
 
-For any questions or issues, feel free to contact:
+For any questions or issues, feel free to reach out to
 - Jichen Xu: branrafa95@gmail.com
 - Anqi Dong: anqid@kth.se
 - Bo Wang: bow@hust.edu.cn
