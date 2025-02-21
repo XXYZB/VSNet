@@ -8,7 +8,7 @@ Published in: Medical Image Analysis, 2025
 DOI: 10.1016/j.media.2025.103458
 ![alt text](https://github.com/XXYZB/VSNet/blob/main/mask.png)
 
-### Please note: The dataset can be downloaded from reannotated.zip
+### Please note: The dataset is now available in reannotated.zip.
 
 ## Introduction
 
